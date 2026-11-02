@@ -1,10 +1,4 @@
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
-Experiment:
-Develop a comprehensive report for the following exercises:
-1.	Explain the foundational concepts of Generative AI. 
-2.	Focusing on Generative AI architectures. (like transformers).
-3.	Generative AI applications.
-4.	Generative AI impact of scaling in LLMs.
 AIM
 To study the fundamental concepts of Generative AI, its different architectures, real-world applications, and the impact of scaling on Large Language Models (LLMs) by comparing the responses of two AI tools, ChatGPT and Google Gemini.
 EXPERIMENT
@@ -44,7 +38,7 @@ Explain the impact of scaling in Large Language Models (LLMs). Discuss how incre
 Prompt 5
 Explain what a Large Language Model (LLM) is and describe how it is built. Include data collection, preprocessing, tokenization, Transformer architecture, model training, fine-tuning, and inference in simple language.
 
-1. FOUNDATIONAL CONCEPTS OF GENERATIVE AI
+# 1. FOUNDATIONAL CONCEPTS OF GENERATIVE AI
 ChatGPT Response
 Introduction to Generative AI
 Generative AI is a branch of Artificial Intelligence that creates new content such as text, images, audio, videos, and computer code by learning patterns from existing data.
@@ -129,20 +123,14 @@ Example: ChatGPT generates text, while image-generation models create pictures f
 
 Conclusion: Generative AI uses machine learning and neural networks to generate meaningful content. It has become an important technology in modern digital applications.
 
-2. GENERATIVE AI ARCHITECTURES – TRANSFORMER
+# 2. GENERATIVE AI ARCHITECTURES – TRANSFORMER
+
 ChatGPT Response
 Introduction
 The Transformer is a deep learning architecture introduced in the research paper Attention Is All You Need in 2017.
 
 It is widely used in modern language models because it can understand relationships between words using an attention mechanism.
-
-
-
-
-
-
-
-sam-herman.github.io
+<img width="1298" height="722" alt="image" src="https://github.com/user-attachments/assets/16b56ee9-fc74-4d40-a6b6-9d2b9a2f6a6d" />
 
 
 Components of Transformer Architecture
@@ -217,6 +205,8 @@ Main Components
 
 6. Decoder: Generates output tokens using previously generated information.
 Simple Architecture Diagram
+<img width="852" height="522" alt="image" src="https://github.com/user-attachments/assets/4f827c48-ff2a-4676-824a-758e6ab0ab65" />
+
 Input Text
 
 Tokenization and Embeddings
@@ -233,7 +223,7 @@ Output Generation
 Conclusion
 Transformers improve language processing through attention and parallel computation. They are used in language translation, text generation, chatbots, and summarization.
 
-3. APPLICATIONS OF GENERATIVE AI
+# 3. APPLICATIONS OF GENERATIVE AI
 ChatGPT Response
 Introduction
 Generative AI is used in several industries to create content, automate tasks, and improve productivity.
@@ -268,15 +258,7 @@ Generative AI is used in several industries to create content, automate tasks, a
 - Creates advertisements.
 - Produces images and videos.
 Working Architecture
-
-
-
-
-
-
-
-intelligenttools.co
-
+<img width="1342" height="723" alt="image" src="https://github.com/user-attachments/assets/67f3d1d0-7911-4a1b-8f42-d25bd6a10980" />
 
 Conclusion
 Generative AI has become useful in healthcare, education, finance, entertainment, software development, and content creation. It improves productivity and reduces repetitive work, but human verification is necessary.
@@ -301,7 +283,8 @@ How It Works
 Conclusion
 Generative AI is an important technology for modern industries. It supports creativity, automation, research, and productivity. However, responsible usage and human supervision are necessary.
 
-4. IMPACT OF SCALING IN LARGE LANGUAGE MODELS
+# 4. IMPACT OF SCALING IN LARGE LANGUAGE MODELS
+
 ChatGPT Response
 Introduction
 Scaling in Large Language Models refers to increasing model parameters, training data, and computational resources to improve model capabilities.
@@ -383,7 +366,8 @@ Disadvantages
 Conclusion
 Scaling is important for developing advanced LLMs. However, efficient architectures, quality data, and responsible training are equally important.
 
-5. WHAT IS A LARGE LANGUAGE MODEL (LLM)?
+# 5. WHAT IS A LARGE LANGUAGE MODEL (LLM)?
+
 ChatGPT Response
 Introduction
 A Large Language Model is a type of artificial intelligence model trained on large amounts of text data to understand and generate human-like language.
@@ -428,15 +412,7 @@ The pre-trained model is further trained using selected examples to improve its 
 
 Inference is the process of using a trained model to generate answers for new user prompts.
 LLM Development Workflow
-
-
-
-
-
-
-
-blog.bytebytego.com
-
+<img width="1147" height="728" alt="image" src="https://github.com/user-attachments/assets/cbf7df93-f13d-42ee-9c36-bb5143235fc7" />
 
 Example
 Input: "The sun rises in the..."
@@ -465,7 +441,8 @@ Applications
 Conclusion
 LLMs are developed using advanced neural network architectures and large datasets. They can perform various language-related tasks and are widely used in modern AI applications.
 
-6. COMPARISON OF CHATGPT AND GOOGLE GEMINI
+
+# 6. COMPARISON OF CHATGPT AND GOOGLE GEMINI
 The following scores are illustrative evaluation scores for this sample report, not measured benchmark results.
 Criteria	ChatGPT	Google Gemini
 Accuracy	5/5 – Gives detailed and organized explanations covering the requested topics.	4.5/5 – Provides technically relevant explanations in concise language.
@@ -474,7 +451,7 @@ Hallucination	4.5/5 – Generally consistent, but technical information requires
 Reasoning	5/5 – Explains concepts in a logical, step-by-step manner.	4.5/5 – Provides clear explanations and summarizes important concepts.
 Speed	5/5 – Provides responses quickly in a structured format.	5/5 – Provides responses quickly with concise explanations.
 
-7. ANALYSIS OF STRENGTHS AND WEAKNESSES
+# 7. ANALYSIS OF STRENGTHS AND WEAKNESSES
 ChatGPT
 Strengths:
 - Provides detailed explanations.
@@ -499,7 +476,7 @@ Weaknesses:
 - May simplify complex concepts.
 - Generated information needs verification.
 - Output detail can vary depending on the prompt.
-8. CONCLUSION
+# 8. CONCLUSION
 Both ChatGPT and Google Gemini are powerful Generative AI tools capable of explaining complex concepts related to Artificial Intelligence and Large Language Models.
 
 ChatGPT provides detailed, structured, and step-by-step explanations, making it useful for academic reports and technical learning.
@@ -509,7 +486,8 @@ Google Gemini provides concise explanations and organized summaries, making it u
 Based on the illustrative evaluation, ChatGPT performs slightly better in detailed reasoning and structured academic content, while Gemini provides an effective alternative for concise explanations.
 
 Both tools have advantages and limitations. Therefore, selecting an AI tool depends on the user's requirements and the nature of the task.
-9. RESULT
+
+# 9. RESULT
 The experiment on the fundamentals of Generative AI and Large Language Models was successfully completed.
 
 The foundational concepts of Generative AI, Transformer architecture, real-world applications, and the impact of scaling in LLMs were studied. Five common prompts were prepared and used to compare ChatGPT and Google Gemini.
